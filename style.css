@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(15, 137, 199);
+    color:black;
+}
+.heading{
+    width: 80%;
+    font-size: 30px;
+}
+.name_of_objects, #object_name, #object_accuracy{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(190, 216, 242);
+}
+#camera{
+    
+    width:350px;
+    height: 350px;
+    background-color: white;
+}
+
+#webcam{
+    color:rgb(255, 255, 255);
+    
+}
+#title{
+    font-family: Georgia, 'Times New Roman',  Times, serif;
+    font-weight: 700;
+    color: white;
+}
+
+#result{
+    width:350px;
+    height: 350px;
+}
